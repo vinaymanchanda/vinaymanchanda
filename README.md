@@ -4,9 +4,9 @@
 
 ## I'm a Fullstak Web Developer
 
-- 👨‍💻 I’m currently working on web development technologies like JavaScript, React, NodeJS etc.
+- 👨‍💻 I’m currently working on web development technologies like Python, Fastapi, Next.js, NodeJS, MERN, Postgres etc.
 - 📚 I’m currently learning everything about Frontend and Backend technologies 😅
-- 💪🏼 Future Goals: Learn more technologies - Never stop creating new ideas.
+- 💪🏼 Future Goals: Solving scaling problems in organisations.
 - ⚡ Fun fact: I love to travel and good stories.
 
 ---
