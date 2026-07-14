@@ -78,5 +78,4 @@
 ---
 
 
-##[linkedin]: https://www.linkedin.com/in/vinay-m-a4038229b/
-
+[linkedin]: 
